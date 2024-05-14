@@ -1,0 +1,6 @@
+@Banco_Railaite_HostAddress = http://localhost:5187
+
+GET {{Banco_Railaite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
